@@ -14,9 +14,9 @@ Para rodar este projeto, é preciso ter java 17 instalado e configurado no seu a
 
 Para instalar o projeto, basta clonar o repositório e importá-lo em sua IDE de preferêcia como um projeto Maven existente.
 
-`~~~
+~~~
 git clone https://github.com/italofvm/apidegerenciamento.git
-~~~`
+~~~
 
 ## Configuração
 
