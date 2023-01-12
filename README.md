@@ -1,6 +1,6 @@
 <h1> API de Gerenciamento de Pessoas com Spring Boot </h1>
 
-> Status: Em desenvolvimento ⚠️
+> Status: desenvolvimento Concluido✔️
 
 Este é um projeto de aplicação web para gereciamento de pessoas usando o framework Java Spring Boot. 
 Com ele, é possível criar, editar, consultar, listar e excluir informações sobre as pessoas.
