@@ -36,7 +36,44 @@ A API possui as seguintes funcionalidades:
 + Criar uma pessoa
 + Editar uma pessoa
 + Consultar uma pessoa
-+ Listar pessoas
++ Listar pessoas/endereço
 + Criar endereços da pessoa
-+ Listar endereços da pessoa
+
+## Api Funcionando
+
+
+<h3>Criando Pessoa/Endereço</h3>
+
+![image](https://user-images.githubusercontent.com/33766000/212180255-c7f4452b-d332-41cc-a5a4-f433a21cb403.png)
+
+-------------------------
+
+<h3>Lista de Pessoas/Endereços</h3>
+
+![image](https://user-images.githubusercontent.com/33766000/212180363-ee3240d5-2b95-4d8b-9af5-a294902f2ade.png)
+
+-------------------------
+
+<h3>Editar Pessoa/Endereço</h3>
+
+![image](https://user-images.githubusercontent.com/33766000/212183366-4f029ab1-99d7-4df7-8665-2407a1b8b041.png)
+
+-------------------------
+
+<h3>Consultar Pessoa</h3>
+
+![image](https://user-images.githubusercontent.com/33766000/212183591-e5872eca-1b00-4ac6-bf3b-de171b2d75db.png)
+
+![image](https://user-images.githubusercontent.com/33766000/212183928-79e4039c-cce6-4842-9232-7f0739974986.png)
+
+-------------------------
+
+<h3>Deletar Pessoa</h3>
+
+![image](https://user-images.githubusercontent.com/33766000/212184103-a66a056e-ca39-4ec2-9f52-bde47224d5bf.png)
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
 
